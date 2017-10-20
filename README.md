@@ -3,7 +3,7 @@
 
 Sistema de administración de contenidos desarrollado en PHP y base de mysql que permite la integración de páginas web de manera fácil y rápida. Este sistema aún no es un software permitido al público para descarga y auto instalación, este sistema por ahora sólo es manejado por el desarrollador que lo creo para implementar de proyectos web a clientes de todo tipo.
 
-## Versión 2.0.1 
+## Versión 3.0.0 
 ###### (Versión Actual)
 
 Esta versión del CMS tiene como fin dar nuevas cosas que se tenian pensadas al momento de iniciar el desarrollo, esta vez el aplicativo de reformo y cambió totalmente la forma de administrar contenidos ya dejamos de un lado la administración padre e hijos y nos lanzamos al estrellato con una nueva forma de guardar la información, esta vez el administrador tendrá.
